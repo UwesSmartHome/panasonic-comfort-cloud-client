@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marc2016/panasonic-comfort-cloud-client.git"
+    "url": "git+https://github.com/UwesSmartHome/panasonic-comfort-cloud-client.git"
   },
   "author": "Marc Lammers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marc2016/panasonic-comfort-cloud-client/issues"
+    "url": "https://github.com/UwesSmartHome/panasonic-comfort-cloud-client/issues"
   },
-  "homepage": "https://github.com/marc2016/panasonic-comfort-cloud-client#readme",
+  "homepage": "https://github.com/UwesSmartHome/panasonic-comfort-cloud-client#readme",
   "devDependencies": {
     "@types/jest": "^24.0.25",
     "@types/lodash": "^4.14.149",
