@@ -9,7 +9,7 @@ import { Parameters } from './model/Parameters'
 import { TokenExpiredError } from './model/TokenExpiredError'
 
 export class ComfortCloudClient {
-  readonly baseUrl = 'https://accsmart.panasonic.com'
+  readonly baseUrl = 'https://aquarea-smart.panasonic.com'
   readonly urlPartLogin = '/auth/login/'
   readonly urlPartGroup = '/device/group/'
   readonly urlPartDevice = '/deviceStatus/'
